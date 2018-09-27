@@ -4,5 +4,10 @@ public class Demo01 {
         System.out.println("002");
         System.out.println("003");
         System.out.println("004");
+        System.out.println("005");
+        System.out.println("005");
+        System.out.println("005");
+        System.out.println("005");
+        System.out.println("005");
     }
 }

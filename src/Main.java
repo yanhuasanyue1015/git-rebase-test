@@ -7,5 +7,11 @@ public class Main {
         System.out.println("test01");
         System.out.println("test01");
         System.out.println("test01");
+        System.out.println("test02");
+        System.out.println("test02");
+        System.out.println("test02");
+        System.out.println("test02");
+        System.out.println("test02");
+        System.out.println("test02");
     }
 }
