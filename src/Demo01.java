@@ -10,5 +10,7 @@ public class Demo01 {
         System.out.println("005");
         System.out.println("005");
         System.out.println("005");
+        System.out.println("005");
+        System.out.println("005");
     }
 }
